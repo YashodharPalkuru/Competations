@@ -1,4 +1,4 @@
-package com.sortvowels;
+package com.yashodhar.sortvowels;
 
 import java.util.LinkedList;
 import java.util.ListIterator;
